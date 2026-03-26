@@ -1,3 +1,10 @@
 dataset/
 __pycache__/
 *.pickle
+*.csv
+*.json
+*.xlsx
+*.xls
+*.jpg
+*.png
+*.zip
