@@ -4,7 +4,7 @@ import cv2
 import os
 import pickle
 
-STUDENT_IMG_DIR = "dataset/"
+STUDENT_IMG_DIR = " " #dataset name
 
 def encode_faces():
     known_encodings = []
