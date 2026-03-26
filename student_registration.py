@@ -3,7 +3,7 @@ import os
 import re
 from db_utils import get_db_connection, create_tables
 
-STUDENT_IMG_DIR = "dataset/"
+STUDENT_IMG_DIR = " " #dataset storing folder name
 
 def valid_email(email):
     return re.match(r"[^@]+@[^@]+\.[^@]+", email)
