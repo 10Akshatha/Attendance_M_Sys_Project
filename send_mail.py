@@ -3,8 +3,8 @@ from email.mime.text import MIMEText
 from db_utils import get_db_connection
 import datetime
 
-EMAIL_ADDRESS = "harshithakv2529@gmail.com"
-EMAIL_PASSWORD = "gmdv dncg igkm qygx"
+EMAIL_ADDRESS = ""
+EMAIL_PASSWORD = ""
 
 def get_absent_periods(today, upto_period=None):
     """

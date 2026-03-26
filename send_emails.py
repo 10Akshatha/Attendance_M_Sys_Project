@@ -4,8 +4,8 @@ from db_utils import get_db_connection
 import datetime
 
 # ---------- EMAIL CONFIG ----------
-EMAIL_ADDRESS = "harshithakv2529@gmail.com"
-EMAIL_PASSWORD = "gmdv dncg igkm qygx"
+EMAIL_ADDRESS = ""
+EMAIL_PASSWORD = ""
 
 # ---------- EMAIL UTILITY FUNCTION ----------
 def send_email(to, subject, body):

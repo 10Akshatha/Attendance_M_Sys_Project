@@ -2,9 +2,9 @@ import mysql.connector
 
 # Database Config
 DB_HOST = "localhost"
-DB_USER = "root"
-DB_PASSWORD = "Akshu@19"
-DB_NAME = "attendance_data"
+DB_USER = ""
+DB_PASSWORD = ""
+DB_NAME = ""
 
 def get_db_connection():
     return mysql.connector.connect(

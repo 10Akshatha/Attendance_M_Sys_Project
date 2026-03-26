@@ -8,3 +8,5 @@ __pycache__/
 *.jpg
 *.png
 *.zip
+*.DS_store
+Thumbs.db
